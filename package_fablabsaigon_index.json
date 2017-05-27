@@ -16,8 +16,8 @@
                     "category":"Contributed",
 					"url": "https://github.com/flsg/Arduino_Boards/raw/master/fablabsaigon_avr_boards.tar.bz2",
                     "archiveFileName":"fablabsaigon_avr_boards.tar.bz2",
-                    "checksum":"SHA-256:34D7E0E968944A8E5382217B71E6A3E35EF68BD8B8D12F27A894EDB98914362C",
-                    "size":"78627",
+                    "checksum":"SHA-256:2D754B3DC8C4729B7E98FF065246BF9A1CB1EFE4B627279635711F1070934B8B",
+                    "size":"53542",
                     "help":{
                         "online":"https://fablabsaigon.org"
                     },
